@@ -1,2 +1,1 @@
-# webpage
- single web page
+Create a single web page using HTML and CSS.
